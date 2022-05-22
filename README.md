@@ -1,5 +1,17 @@
 ### Hi there I'm Toni 👋 👨🏻‍💻 🚀
 
+- 🌱 I’m currently learning Front-end development 
+- 👯 I’m looking to collaborate on web development projects
+
+
+const toni = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React_in_process, Git, Sass, Bootstrap],
+  techCommunities: "IT_Academy"
+}
+
+
 <!--
 **tonimjdev/tonimjdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
