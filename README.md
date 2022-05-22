@@ -1,6 +1,6 @@
-### Hi there I'm Toni 👋 👨🏻‍💻 🚀
+### Hi there I'm Toni 👋 👨🏻‍💻  🚀
 
-- 🌱 I’m currently learning Front-end development 
+- 🌱 I’m currently learning <b>Front-end development</b>
 - 👯 I’m looking to collaborate on web development projects
 
 ```javascript
@@ -11,6 +11,8 @@ const toni = {
   techCommunities: "IT_Academy"
 }
 ```
+
+-> Contact with me: tonimdev@gmail.com
 
 <!--
 **tonimjdev/tonimjdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
