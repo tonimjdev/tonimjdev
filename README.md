@@ -1,7 +1,7 @@
 ### Hi there👋 , I'm Toni 👨🏻‍💻 
 
 - 🖥 I’m currently learning <b>Front-end development</b> at <em>IT Academy</em>
-- 💭 I’m looking to collaborate on web development projects
+- 💭 Looking to collaborate on web development projects
 - 📖 Currently reading <em>La Carte et le Territoire</em> by Michel Houellebecq
 - 🚀 Learn to fly 
 
@@ -10,7 +10,7 @@ const toni = {
   code: [Javascript, HTML, CSS],
   tools: [Git, Sass, Bootstrap],
   in_process: [React],
-  passions: [Tech, Design, Art, Music],
+  passions: [Tech, Design, Art, Music, Oldies],
   techCommunities: "IT_Academy"
 }
 ```
