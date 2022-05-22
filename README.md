@@ -1,13 +1,16 @@
-### Hi there I'm Toni 👋 👨🏻‍💻 🚀
+### Hi there👋 , I'm Toni 👨🏻‍💻 
 
-- 🌱 I’m currently learning <b>Front-end development</b>
-- 👯 I’m looking to collaborate on web development projects
+- 🖥 I’m currently learning <b>Front-end development</b> at <em>IT Academy</em>
+- 💭 I’m looking to collaborate on web development projects
+- 📖 Currently reading <em>La Carte et le Territoire</em> by Michel Houellebecq
+- 🚀 Learn to fly 
 
 ```javascript
 const toni = {
-  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React_in_process, Git, Sass, Bootstrap],
+  tools: [Git, Sass, Bootstrap],
+  in_process: [React],
+  passions: [Tech, Design, Art, Music],
   techCommunities: "IT_Academy"
 }
 ```
