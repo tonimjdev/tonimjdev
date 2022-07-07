@@ -9,7 +9,7 @@
 const toni = {
   code: [Javascript, HTML, CSS],
   tools: [Git, Sass, Bootstrap],
-  in_process: [React],
+  in_process: [Angular],
   passions: [Tech, Design, Art, Music, Oldies],
   techCommunities: "IT_Academy"
 }
