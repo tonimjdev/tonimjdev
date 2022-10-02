@@ -2,7 +2,7 @@
 
 - 🖥 I’m currently learning <b>Front-end development</b> at <em>IT Academy</em>
 - 💭 Looking to collaborate on web development projects
-- 📖 Currently reading <em>La Carte et le Territoire</em> by Michel Houellebecq
+- 📖 Currently reading <em>Antología polifacética de obra y vida</em> by Fernando Fernán Gómez
 - 🚀 Learn to fly 
 
 ```javascript
