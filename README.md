@@ -8,8 +8,8 @@
 ```javascript
 const toni = {
   code: [JavaScript, TypeScript, HTML5, CSS],
-  tools: [Git, Sass, Bootstrap, Postman],
-  in_process: [Angular],
+  tools: [Git, Sass, Bootstrap, Postman, MySQL],
+  frameworks: [Angular],
   passions: [Tech, Design, Art, Music, Oldies],
   techCommunities: "IT_Academy"
 }
