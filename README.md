@@ -1,15 +1,15 @@
 ### Hi there👋 , I'm Toni 👨🏻‍💻 
 
-- 🖥 I’m currently learning <b>Front-end development</b> at <em>IT Academy</em>
+- 🖥 I’m currently developing the <b>Kromos</b> app
 - 💭 Looking to collaborate on web development projects
-- 📖 Currently reading <em>Antología polifacética de obra y vida</em> by Fernando Fernán Gómez
+- 📖 Currently reading <em>La noche que llegué al Café Gijón</em> by Francisco Umbral
 - 🚀 Learn to fly 
 
 ```javascript
 const toni = {
   code: [JavaScript, TypeScript, HTML5, CSS],
   tools: [Git, Sass, Bootstrap, Postman],
-  dataBase: [MySQL, MongoDB],
+  dataBase: [MongoDB, MySQL],
   frameworks: [Angular],
   passions: [Tech, Design, Art, Music, Oldies],
   techCommunities: "IT_Academy"
