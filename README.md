@@ -1,6 +1,5 @@
 ### Hi there👋 , I'm Toni 👨🏻‍💻 
 
-- 🖥 I’m currently developing the <b>Kromos</b> app
 - 💭 Looking to collaborate on web development projects
 - 📖 Currently reading <em>Clean Code: A Handbook of Agile Software Craftsmanship</em> by Robert C. Martin
 - 🚀 Learn to fly 
